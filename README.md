@@ -6,6 +6,8 @@ Hierna hebben we de visitekaartjes bij elkaar geplaatst via een team website. De
 ## Linkje naar de teampagina:
 https://teamstonks.netlify.app/
 
+
+## De breakdownschets:
 ![breakdownschets](https://github.com/kilroy763/kickoff-2021/blob/main/img/breakdownschets.jpg?raw=true)
 
 <!-- ☝️ replace this description with a description of your own work -->
