@@ -19,8 +19,6 @@ html {
   background-color: #eeeeee;
   border-radius: 10%;
   margin-top: 3em;
-  float: left;
-  margin-left: 20%;
 }
 
 img{
@@ -64,16 +62,4 @@ p{
 a{
   color: inherit;
   text-decoration: none;
-}
-
-.tekstje{
-  width: 400px;
-  height: 750px;
-  margin: 0 auto;
-  background-color: #eeeeee;
-  border-radius: 10%;
-  margin-top: 3em;
-  float: right;
-  margin-right: 20%;
-}
 }
